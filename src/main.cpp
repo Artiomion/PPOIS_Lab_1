@@ -1,6 +1,6 @@
 #include "Polynomial.h"
 #include <iostream>
-#include "PolynomialFunction.h"
+#include "PolynomialUI.h"
 
 using namespace std;
 

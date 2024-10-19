@@ -3,7 +3,7 @@
 //
 #include "gtest/gtest.h"
 #include "Polynomial.h"
-#include "PolynomialFunction.h"
+#include "PolynomialUI.h"
 #include <sstream>
 
 // Тест для функции showCoefficients

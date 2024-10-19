@@ -1,7 +1,7 @@
 //
 // Created by Artem Sotnikov on 18.10.24.
 //
-#include "PolynomialFunction.h"
+#include "PolynomialUI.h"
 #include <iostream>
 #include <vector>
 #include <string>
